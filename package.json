@@ -12,7 +12,7 @@
   "dependencies": {
     "react": "16.13.1",
     "react-flip-page": "^1.6.2",
-    "react-native": "0.63.0",
+    "react-native": "0.64.1",
     "react-native-flip-card": "^3.5.6",
     "react-native-flip-page": "^0.5.0"
   },
